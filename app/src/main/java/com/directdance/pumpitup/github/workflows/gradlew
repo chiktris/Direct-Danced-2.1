@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+# Este archivo es necesario para que GitHub Actions pueda ejecutar ./gradlew
